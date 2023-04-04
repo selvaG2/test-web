@@ -108,12 +108,13 @@
 /* cards css */
 .card {
     opacity: 1;
-    width: 160px;
-    height: 180px;
-    border-radius: 4px;
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
     background-color: rgba(170, 179, 60, 0.3);
     margin-left: 30px;
     padding: 10px;
+    margin-right: 10px;
 }
 
 .card-card {
@@ -123,18 +124,19 @@
 /* cards text */
 .card-text1 {
     margin-top: 10px;
-    font-size: 15px;
-    line-height: 18px;
+    font-size: 13px;
+    line-height: 19px;
     color: #404142;
     font-weight: 650;
     font-family: "Quicksand";
     text-align: center;
+    margin-top: 18px;
 }
 
 .card-text2 {
     margin-top: 10px;
-    font-size: 15px;
-    line-height: 18px;
+    font-size: 13px;
+    line-height: 19px;
     color: #404142;
     font-weight: 650;
     font-family: "Quicksand";
@@ -143,8 +145,8 @@
 
 .card-text3 {
     margin-top: 13px;
-    font-size: 15px;
-    line-height: 15px;
+    font-size: 13px;
+    line-height: 19px;
     color: #404142;
     font-weight: 650;
     font-family: "Quicksand";
@@ -153,14 +155,16 @@
 
 .card-text4 {
     margin-top: 10px;
-    font-size: 15px;
-    line-height: 18px;
+    font-size: 14px;
+    line-height: 19px;
     color: #404142;
     font-weight: 650;
     font-family: "Quicksand";
     text-align: center;
+    margin-top: 13px;
 }
 /* cards img */
 .card-img{
     margin-top: 10px;
 }
+
